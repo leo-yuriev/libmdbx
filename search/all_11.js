@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['range_20query_20estimation_811',['Range query estimation',['../group__c__rqest.html',1,'']]],
+  ['reader_5finfo_812',['reader_info',['../structmdbx_1_1env_1_1reader__info.html',1,'mdbx::env::reader_info'],['../structmdbx_1_1env_1_1reader__info.html#a439046bfeaa4608bff9725ee49049369',1,'mdbx::env::reader_info::reader_info()']]],
+  ['readonly_813',['readonly',['../classmdbx_1_1env.html#a66d3e23137a274723052cb4d55485912aa5c227c6858f038ab52d0c3b73d5b84c',1,'mdbx::env']]],
+  ['reclaiming_814',['reclaiming',['../structmdbx_1_1env_1_1operate__parameters.html#a9dff418d8fafaefe79f3ceac6cd87ea4',1,'mdbx::env::operate_parameters']]],
+  ['reclaiming_5ffrom_5fflags_815',['reclaiming_from_flags',['../structmdbx_1_1env_1_1operate__parameters.html#a82982933871b14a4bcc9f2de7ec2caf8',1,'mdbx::env::operate_parameters']]],
+  ['reclaiming_5foptions_816',['reclaiming_options',['../structmdbx_1_1env_1_1reclaiming__options.html',1,'mdbx::env::reclaiming_options'],['../structmdbx_1_1env_1_1reclaiming__options.html#a4229f8ad50f452a0579f500eced21fa1',1,'mdbx::env::reclaiming_options::reclaiming_options() noexcept'],['../structmdbx_1_1env_1_1reclaiming__options.html#a3da9d5bf44f82edfc72d35d2b6de9196',1,'mdbx::env::reclaiming_options::reclaiming_options(MDBX_env_flags_t) noexcept']]],
+  ['release_817',['release',['../struct_m_d_b_x__version__info.html#a4e94c02e5ec71cb6fd1c2b9f90299d5b',1,'MDBX_version_info']]],
+  ['remove_818',['remove',['../classmdbx_1_1env.html#a5eb1a1ddd12bf88eb3252acf96e7498c',1,'mdbx::env::remove(const ::std::filesystem::path &amp;, const remove_mode mode=just_remove)'],['../classmdbx_1_1env.html#a6de4c6fb430f7063cd60a324868e4004',1,'mdbx::env::remove(const ::std::string &amp;, const remove_mode mode=just_remove)']]],
+  ['remove_5fmode_819',['remove_mode',['../classmdbx_1_1env.html#a903e64cb8e0eaca469560f403d509858',1,'mdbx::env']]],
+  ['remove_5fprefix_820',['remove_prefix',['../structmdbx_1_1slice.html#a9cd0982cb9fa6eed01a48fc05c8c7ec1',1,'mdbx::slice::remove_prefix()'],['../classmdbx_1_1buffer.html#aa37436bde6dce8d0c875435de8a55957',1,'mdbx::buffer::remove_prefix()']]],
+  ['remove_5fsuffix_821',['remove_suffix',['../structmdbx_1_1slice.html#a1c89ebdb77acb3f278b50c680e8b7d07',1,'mdbx::slice::remove_suffix()'],['../classmdbx_1_1buffer.html#a585e78e440c430c0ddae81c9c90c51b1',1,'mdbx::buffer::remove_suffix()']]],
+  ['renew_822',['renew',['../classmdbx_1_1cursor.html#a082200dc8dd1afa5c93d074fa8b266b6',1,'mdbx::cursor']]],
+  ['renew_5freading_823',['renew_reading',['../classmdbx_1_1txn.html#a5ac437cc68a3234b6b7cb44eb3dd4cd7',1,'mdbx::txn']]],
+  ['replace_824',['replace',['../classmdbx_1_1txn.html#a08087d8b3af447aa2bbde857c743e9bd',1,'mdbx::txn::replace(map_handle map, const slice &amp;key, slice old_value, const slice &amp;new_value)'],['../classmdbx_1_1txn.html#a9bad59fabcebce0d3b961c8072ccdb30',1,'mdbx::txn::replace(map_handle map, const slice &amp;key, const slice &amp;new_value, const typename buffer&lt; ALLOCATOR, CAPACITY_POLICY &gt;::allocator_type &amp;allocator=buffer&lt; ALLOCATOR, CAPACITY_POLICY &gt;::allocator_type())']]],
+  ['replace_5freserve_825',['replace_reserve',['../classmdbx_1_1txn.html#aaf9c483fcef427f65ab82e64553b5650',1,'mdbx::txn']]],
+  ['reservation_5fpolicy_826',['reservation_policy',['../classmdbx_1_1buffer.html#a8f2e8cfc91b516243ebdd4b87ff28e43',1,'mdbx::buffer']]],
+  ['reserve_827',['reserve',['../classmdbx_1_1buffer.html#a1eb8f6e935b2c19a883c8e1370cf3fdf',1,'mdbx::buffer']]],
+  ['reserve_5fheadroom_828',['reserve_headroom',['../classmdbx_1_1buffer.html#a202767525b7633fcdbb923951790fe1a',1,'mdbx::buffer']]],
+  ['reserve_5ftailroom_829',['reserve_tailroom',['../classmdbx_1_1buffer.html#a1413ccf2668d4d5ef728b85a51c18154',1,'mdbx::buffer']]],
+  ['reset_5freading_830',['reset_reading',['../classmdbx_1_1txn.html#a0b5b68c455626d6a594c58c7c5d6babf',1,'mdbx::txn']]],
+  ['rethrow_5fcaptured_831',['rethrow_captured',['../classmdbx_1_1exception__thunk.html#a0cfd7a0cec8efdef187ec8ecf23d3101',1,'mdbx::exception_thunk']]],
+  ['reverse_832',['reverse',['../namespacemdbx.html#ac353595aa9d5601f1a5888b26761db04a4d9c2073afa3c2abb817dceb22c34de6',1,'mdbx']]],
+  ['revision_833',['revision',['../struct_m_d_b_x__version__info.html#a77b126b435d465e727b5461a61733903',1,'MDBX_version_info']]],
+  ['robust_5fsynchronous_834',['robust_synchronous',['../classmdbx_1_1env.html#a21b1c4fc9a921d3ff8885aef43099336ad7e0f6fd854c5f5999744e94b04da73f',1,'mdbx::env']]],
+  ['round_835',['round',['../structmdbx_1_1default__capacity__policy.html#ab568598830981899ff15e6a7f31d7d4a',1,'mdbx::default_capacity_policy']]]
+];
